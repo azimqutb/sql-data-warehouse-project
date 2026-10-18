@@ -110,7 +110,7 @@ Full details are in [`02_docs/requirements.md`](02_docs/requirements.md).
 
 ## ▶️ How to Run
 
-1. Follow the setup guide in [`00_setup/`](00_setup/) to install SQL Server and create the database.
+1. Install SQL Server and SSMS.
 2. Place the project folder at `C:\sql\dwh_project\`, or edit the six file paths in `03_scripts/bronze/proc_load_bronze.sql`.
 3. Run the scripts in this order:
    1. `03_scripts/init_database.sql`
