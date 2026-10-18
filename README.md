@@ -40,7 +40,6 @@ The project follows the **Medallion Architecture**:
 
 ```
 sql-data-warehouse-project/
-├── 00_setup/               Setup guide (SQL Server install, database creation)
 ├── 01_datasets/            Six source files
 │   ├── source_crm/         Three files from the CRM system
 │   └── source_erp/         Three files from the ERP system
