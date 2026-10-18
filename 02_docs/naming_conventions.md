@@ -2,6 +2,8 @@
 
 This document outlines the naming conventions used for schemas, tables, views, columns, and other objects in the data warehouse.
 
+> Based on learning material from [Data With Baraa](https://www.datawithbaraa.com).
+
 ## **Table of Contents**
 
 1. [General Principles](#general-principles)
